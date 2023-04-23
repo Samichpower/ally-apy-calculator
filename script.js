@@ -1,18 +1,3 @@
-//Make a calculator for Ally's savings APY over a chosen time frame.
-//Put in how much money to start with, chose the number of months, then it will output the compounded interest over that time frame.
-//APY: 3.68% annually. 
-//While loops for the two prompt, must only accept numbers as answer
-
-//Ask the user for an initial amount of money to put in
-//Ask the user for a time-frame in months
-//Add 3.68% to the users money and make this the new users money number
-//Repeat for however many months they input
-//Output a tidy message displaying the start and the total profit over the time frame
-
-//Keep the profit seperate
-//
-
-
 function calculateInterest() {
   let moneyInvested;
   do {
